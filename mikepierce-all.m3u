@@ -11,37 +11,16 @@ http://streams.radio.co:80/s0aa1e6f4a/listen
 #EXTINF:-1, a.m. ambient
 #EXTGENRE: bright and positive ambient music
 http://radio.stereoscenic.com/ama-h
-http://radio.stereoscenic.com/ama-s
 
 #EXTINF:-1,#1 EDM RADIO | AH.FM
 http://nl.ah.fm:8000/live
-#EXTINF:-1,#1 EDM RADIO | AH.FM
-http://fr.ah.fm:8000/live
-#EXTINF:-1,#1 EDM RADIO | AH.FM
-http://fr2.ah.fm:8000/live
-#EXTINF:-1,#1 EDM RADIO | AH.FM
-http://195.95.233.51:8000/afterhours
-#EXTINF:-1,#1 EDM RADIO | AH.FM
-http://stream.ah.fm:8000/live
-#EXTINF:-1,#1 EDM RADIO | AH.FM
-http://ca.ah.fm:8000/live
-#EXTINF:-1,#1 EDM RADIO | AH.FM
-http://relay.ah.fm:8000/live
-#EXTINF:-1,#1 EDM RADIO | AH.FM
-http://fr3.ah.fm:8000/live
+
 #EXTINF:-1,#1 EDM RADIO Mobile | AH.FM
 http://nl.ah.fm:8000/mobile
-#EXTINF:-1,#1 EDM RADIO Mobile | AH.FM
-http://fr.ah.fm:8000/mobile
-#EXTINF:-1,#1 EDM RADIO Mobile | AH.FM
-http://fr2.ah.fm:8000/mobile
-#EXTINF:-1,#1 EDM RADIO Mobile | AH.FM
-http://fr3.ah.fm:8000/mobile
 
 #EXTINF:-1,Ambient Sleeping Pill
 #EXTGENRE: ambient
 http://radio.stereoscenic.com/asp-h
-http://radio.stereoscenic.com/asp-s
 
 #EXTINF:-1, BBC - Radio 1
 #EXTGENRE: youth contemporary
@@ -72,17 +51,14 @@ https://s2.radio.co/s2b2b68744/listen
 #EXTINF:-1, Echoes of Bluemars, Cryosleep
 #EXTGENRE: ambient
 http://50.116.12.253:8000/cryosleep
-http://streams.echoesofbluemars.org:8000/cryosleep
 
 #EXTINF:-1, Echoes of Bluemars, Voices from Within
 #EXTGENRE: ambient
 http://50.116.12.253:8000/voicesfromwithin
-http://streams.echoesofbluemars.org:8000/voicesfromwithin
 
 #EXTINF:-1, Echoes of Bluemars
 #EXTGENRE: ambient
 http://50.116.12.253:8000/bluemars
-http://streams.echoesofbluemars.org:8000/bluemars
 
 #EXTINF:-1, Cashmere Radio
 #EXTGENRE: experimental
@@ -97,8 +73,6 @@ http://s3.viastreaming.net:8835/
 
 #EXTINF:-1, Dial Radio
 https://cast.dialradio.live/stream.opus
-https://cast.dialradio.live/stream.aac
-https://cast.dialradio.live/stream.mp3
 
 #EXTINF:-1, dogglounge
 #EXTGENRE: deep house
@@ -106,11 +80,9 @@ http://dogglounge.com:8000
 
 #EXTINF:-1, dublab
 https://dublab.out.airtime.pro/dublab_a
-https://dublab.out.airtime.pro/dublab_b
 
 #EXTINF:-1,FIP
 http://direct.fipradio.fr/live/fip-midfi.mp3
-http://icecast.radiofrance.fr/fip-midfi.mp3
 
 #EXTINF:-1,FIP Rock
 http://direct.fipradio.fr/live/fip-webradio1.mp3
@@ -159,57 +131,42 @@ https://stream.friskyradio.com
 
 #EXTINF:-1, Hirschmilch Chillout
 https://hirschmilch.de:7501/chillout.mp3
-https://xfer.hirschmilch.de:8001/chillout.opus
 
 #EXTINF:-1, Hirschmilch Electronic
 https://hirschmilch.de:7501/electronic.mp3
-https://xfer.hirschmilch.de:8001/electronic.opus
 
 #EXTINF:-1, Hirschmilch Organic-House
 https://hirschmilch.de:7501/organic-house.mp3
-https://xfer.hirschmilch.de:8001/organic-house.opus
 
 #EXTINF:-1, Hirschmilch Prog-House
 https://hirschmilch.de:7501/prog-house.mp3
-https://xfer.hirschmilch.de:8001/prog-house.opus
 
 #EXTINF:-1, Hirschmilch Progressive
 https://hirschmilch.de:7501/progressive.mp3
-https://xfer.hirschmilch.de:8001/progressive.opus
 
 #EXTINF:-1, Hirschmilch Psytrance
 https://hirschmilch.de:7501/psytrance.mp3
-https://xfer.hirschmilch.de:8001/psytrance.opus
 
 #EXTINF:-1, Hirschmilch Techno
 https://hirschmilch.de:7501/techno.mp3
-https://xfer.hirschmilch.de:8001/techno.opus
 
 #EXTINF:-1, KAFM Western Colorado Public Radio
 https://audio-edge-2a8hd.sfo.he.radiomast.io/10822f41-b0b3-4430-809f-9c22cf5c990f
-http://peridot.streamguys.com:5280/kafm
 
 #EXTINF:-1, KCHUNG
 https://kchungradio.out.airtime.pro/kchungradio_a
-https://kchungradio.out.airtime.pro/kchungradio_b
 
 #EXTINF:-1, KEXP Seattle Public Radio
 http://live-mp3-128.kexp.org
-http://live-aacplus-64.kexp.org/kexp64.aac
 
 #EXTINF:-1, KRCC Colorado Public Radio
 https://streams.krcc.org/krcc_mp3
-https://streams.krcc.org/krcc_mp3
 
-#EXTINF:-1, KSPC Claremont 
+#EXTINF:-1, KSPC Claremont
 http://andromeda.shoutca.st:8419/stream192
-http://nebula.shoutca.st:8160/stream128
 
 #EXTINF:-1, KXLU Loyola Marymount
 http://kxlu.streamguys1.com/kxlu-hi
-http://www.ednixon.com:8120/stream
-http://www.ednixon.com:9500/stream
-http://kxlu.streamguys1.com:80/kxlu-lo
 
 #EXTINF:-1, Kiosk Radio
 https://kioskradiobxl.out.airtime.pro/kioskradiobxl_b
@@ -229,37 +186,22 @@ http://stream-relay-geo.ntslive.net/stream2
 #EXTINF:-1, Nectarine
 #EXTGENRE: demoscene
 http://necta.burn.net:8000/nectarine
-http://nectarine.ers35.net:8000/necta192.mp3
-https://radio.worlio.com/stream/necta64.mp3
-
 
 #EXTINF:-1, Newtown Radio
 https://streaming.radio.co/s0d090ee43/listen
 
 #EXTINF:-1, Nightwave Plaza
 #EXTGENRE: vaporwave and future funk
-http://radio.plaza.one/ogg 
-http://radio.plaza.one/ogg_96
-http://radio.plaza.one/opus 
-http://radio.plaza.one/opus_64
-http://radio.plaza.one/mp3 
-http://radio.plaza.one/mp3_96 
+http://radio.plaza.one/ogg
 
 #EXTINF:-1, Radio Caroline
 http://78.129.202.10:8030/
-http://78.129.202.10:8040/
 
 #EXTINF:-1, Radio Paradise - Global
 http://stream.radioparadise.com/global-192
-http://stream.radioparadise.com/global-128
-http://stream.radioparadise.com/global-96.ogg
 
 #EXTINF:-1, Radio Paradise - Main Mix
 http://stream.radioparadise.com/rp_192m.ogg
-http://stream.radioparadise.com/mp3-192
-http://stream.radioparadise.com/aac-128
-http://stream.radioparadise.com/mp3-128
-http://stream.radioparadise.com/rp_32.ogg
 
 #EXTINF:-1, Radio Rivendell
 #EXTGENRE: fantasy
@@ -270,8 +212,6 @@ https://radiomeuh.ice.infomaniak.ch/radiomeuh-128.mp3
 
 #EXTINF:-1, RePlayScape
 http://radio.replayscape.com:8128/
-http://radio.replayscape.com:8096/
-http://radio.replayscape.com:8064/
 
 #EXTINF:-1, Rinse FM
 #EXTGENRE: dance, garage, grime, dubstep, house, jungle, etc
@@ -287,15 +227,9 @@ http://shonanbeachfm.out.airtime.pro:8000/shonanbeachfm_a
 #EXTINF:-1, SLAY Radio
 #EXTGENRE: chiptune, commodore 64 sid
 http://relay1.slayradio.org:8000/
-http://relay1.slayradio.org:8100/
-http://relay1.slayradio.org:8200/
-http://relay4.slayradio.org:8000/
-http://relay4.slayradio.org:8100/
-http://relay4.slayradio.org:8200/
 
 #EXTINF:-1, Sleepbot Environmental Broadcast
 http://primarystream.sleepbot.com:8218/seb
-http://backupstream.sleepbot.com:8096/seb
 
 #EXTINF:-1, Sleepscapes Rain
 https://stream.willstare.com:8850/
@@ -303,113 +237,36 @@ https://stream.willstare.com:8850/
 #EXTINF:-1, Sleepscapes Waves
 https://stream.willstare.com:8860/
 
-#EXTINF:-1, Soho Radio 
+#EXTINF:-1, Soho Radio
 https://sohoradiomusic.doughunt.co.uk:8010/320mp3
 
 #EXTINF:-1, SomaFM - Deep Space One
 #EXTGENRE: deep ambient electronic, experimental and space music
 http://ice2.somafm.com/deepspaceone-128-aac
-http://ice3.somafm.com/deepspaceone-128-aac
-http://ice4.somafm.com/deepspaceone-128-aac
-http://ice5.somafm.com/deepspaceone-128-aac
-http://ice2.somafm.com/deepspaceone-64-aac
-http://ice3.somafm.com/deepspaceone-64-aac
-http://ice4.somafm.com/deepspaceone-64-aac
-http://ice5.somafm.com/deepspaceone-64-aac
-http://ice2.somafm.com/deepspaceone-32-aac
-http://ice3.somafm.com/deepspaceone-32-aac
-http://ice4.somafm.com/deepspaceone-32-aac
-http://ice5.somafm.com/deepspaceone-32-aac
 
 #EXTINF:-1, SomaFM - Drone Zone
 #EXTGENRE: atmospheric textures with minimal beats
 http://ice2.somafm.com/dronezone-128-aac
-http://ice3.somafm.com/dronezone-128-aac
-http://ice4.somafm.com/dronezone-128-aac
-http://ice5.somafm.com/dronezone-128-aac
-http://ice2.somafm.com/dronezone-64-aac
-http://ice3.somafm.com/dronezone-64-aac
-http://ice4.somafm.com/dronezone-64-aac
-http://ice5.somafm.com/dronezone-64-aac
-http://ice2.somafm.com/dronezone-32-aac
-http://ice3.somafm.com/dronezone-32-aac
-http://ice4.somafm.com/dronezone-32-aac
-http://ice5.somafm.com/dronezone-32-aac
 
 #EXTINF:-1, SomaFM - Groove Salad
 #EXTGENRE: ambient/downtempo beats and grooves
 http://ice2.somafm.com/groovesalad-128-aac
-http://ice3.somafm.com/groovesalad-128-mp3
-http://ice4.somafm.com/groovesalad-128-aac
-http://ice5.somafm.com/groovesalad-128-mp3
-http://ice2.somafm.com/groovesalad-64-aac
-http://ice3.somafm.com/groovesalad-64-mp3
-http://ice4.somafm.com/groovesalad-64-aac
-http://ice5.somafm.com/groovesalad-64-mp3
-http://ice2.somafm.com/groovesalad-32-aac
-http://ice3.somafm.com/groovesalad-32-mp3
-http://ice4.somafm.com/groovesalad-32-aac
-http://ice5.somafm.com/groovesalad-32-mp3
 
 #EXTINF:-1, SomaFM - Illinois Street Lounge
 #EXTGENRE: playful exotica and vintage music of tomorrow
 http://ice2.somafm.com/illstreet-128-aac
-http://ice3.somafm.com/illstreet-128-aac
-http://ice4.somafm.com/illstreet-128-aac
-http://ice5.somafm.com/illstreet-128-aac
-http://ice2.somafm.com/illstreet-64-aac
-http://ice3.somafm.com/illstreet-64-aac
-http://ice4.somafm.com/illstreet-64-aac
-http://ice5.somafm.com/illstreet-64-aac
-http://ice2.somafm.com/illstreet-32-aac
-http://ice3.somafm.com/illstreet-32-aac
-http://ice4.somafm.com/illstreet-32-aac
-http://ice5.somafm.com/illstreet-32-aac
 
 #EXTINF:-1, SomaFM - Lush
 #EXTGENRE: sensuous and mellow female vocals
 http://ice2.somafm.com/lush-128-aac
-http://ice3.somafm.com/lush-128-aac
-http://ice4.somafm.com/lush-128-aac
-http://icer.somafm.com/lush-128-aac
-http://ice2.somafm.com/lush-64-aac
-http://ice3.somafm.com/lush-64-aac
-http://ice4.somafm.com/lush-64-aac
-http://icer.somafm.com/lush-64-aac
-http://ice2.somafm.com/lush-32-aac
-http://ice3.somafm.com/lush-32-aac
-http://ice4.somafm.com/lush-32-aac
-http://icer.somafm.com/lush-32-aac
 
 #EXTINF:-1, SomaFM - SF 10-33
 #EXTGENRE: ambient music mixed with the sounds of San Francisco public safety radio traffic
 http://ice2.somafm.com/sf1033-128-mp3
-http://ice3.somafm.com/sf1033-128-mp3
-http://ice4.somafm.com/sf1033-128-mp3
-http://ice5.somafm.com/sf1033-128-mp3
-http://ice2.somafm.com/sf1033-64-mp3
-http://ice3.somafm.com/sf1033-64-mp3
-http://ice4.somafm.com/sf1033-64-mp3
-http://ice5.somafm.com/sf1033-64-mp3
-http://ice2.somafm.com/sf1033-32-mp3
-http://ice3.somafm.com/sf1033-32-mp3
-http://ice4.somafm.com/sf1033-32-mp3
-http://ice5.somafm.com/sf1033-32-mp3
 
 #EXTINF:-1, SomaFM - Space Station Soma
 #EXTGENRE: spaced-out ambient and mid-tempo electronica
 http://ice2.somafm.com/spacestation-128-aac
-http://ice3.somafm.com/spacestation-128-aac
-http://ice4.somafm.com/spacestation-128-aac
-http://ice5.somafm.com/spacestation-128-aac
-http://ice2.somafm.com/spacestation-64-aac
-http://ice3.somafm.com/spacestation-64-aac
-http://ice4.somafm.com/spacestation-64-aac
-http://ice5.somafm.com/spacestation-64-aac
-http://ice2.somafm.com/spacestation-32-aac
-http://ice3.somafm.com/spacestation-32-aac
-http://ice4.somafm.com/spacestation-32-aac
-http://ice5.somafm.com/spacestation-32-aac
 
 #EXTINF:-1, Subcity Radio
 https://stream.subcity.org/listen
@@ -417,7 +274,6 @@ https://stream.subcity.org/listen
 #EXTINF:-1, SyntheticFM - New Italo Disco
 #EXTGENRE: italo disco
 http://stream.syntheticfm.com:8030/stream
-
 
 #EXTINF:-1, SyntheticFM - Synth
 #EXTGENRE: synthwave
